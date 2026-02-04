@@ -62,7 +62,10 @@ This will save the fine-tuned model and tokenizer to the `bert_finetuned_model` 
 
 ---
 
-### **5. Deploy REST API**
+### **5. Run REST API**
+
+This project exposes a REST API built with FastAPI. The API runs in development mode and is intended for local testing and demonstration.
+
 Run the `apikeys.py` script to start the REST API:
 ```bash
 uvicorn apikeys:app --reload
