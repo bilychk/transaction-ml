@@ -105,7 +105,7 @@ curl -X POST "http://127.0.0.1:8000/classify" \
 - `preprocessing.py`: Cleans and tokenizes the dataset.
 - `train_models.py`: Trains and evaluates classical ML models.
 - `transformer_model.py`: Fine-tunes a transformer model for classification.
-- `apikeys.py`: REST API for serving predictions using the trained Logistic Regression model.
+- `api.py`: REST API for serving predictions using the trained Logistic Regression model.
 - `bert_model_results.py`: Demonstrates inference using the fine-tuned transformer model.
 - `financial_data.csv`: Generated synthetic dataset.
 - `financial_data_cleaned.csv`: Preprocessed dataset.
