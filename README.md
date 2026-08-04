@@ -2,6 +2,10 @@
 
 This project builds a text classification pipeline to predict the "transaction type" of financial transactions based on their "purpose text." The solution includes data preprocessing, model training, evaluation, and deployment as a REST API.
 
+# **Problem Statement**
+
+Financial institutions receive thousands of transaction descriptions daily. This project automates transaction categorization using NLP models.
+
 ---
 
 ## **Features**
