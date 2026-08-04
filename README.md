@@ -5,6 +5,9 @@ This project builds a text classification pipeline to predict the "transaction t
 ---
 
 ## **Features**
+Limitations:
+The current dataset is synthetic.
+Future versions will evaluate performance on real anonymized transaction data.
 1. **Synthetic Dataset Generation**: 
    - Generates a dataset of financial transactions with realistic "purpose text" and "transaction type" labels.
    - Includes noise and edge cases (e.g., empty texts, random characters) for robustness.
