@@ -4,7 +4,7 @@ This project builds a text classification pipeline to predict the "transaction t
 
 # **Problem Statement**
 
-Financial institutions receive thousands of transaction descriptions daily. This project automates transaction categorization using NLP models.
+Financial institutions receive thousands of transaction descriptions daily. This project automates transaction categorization using NLP models
 
 ---
 
